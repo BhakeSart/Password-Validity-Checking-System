@@ -9,12 +9,6 @@ To write a program in 8086 Assembly Language that checks an input string against
 2. TASM 1.4 : Turbo Assembler aka tasm is an assembler for software development published by Borland 1989.
 
 
-## Segments in the code:
-1. Data Segment : Password and input messages are stored.
-                  Messages to be displayed are stored.
-                  
-2. Code Segment : Input and password is DS is moved and checked
-                  Compared and zero flag sets
                
 
                
