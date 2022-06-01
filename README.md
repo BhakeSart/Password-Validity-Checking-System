@@ -16,8 +16,7 @@ To write a program in 8086 Assembly Language that checks an input string against
 2. Code Segment : Input and password is DS is moved and checked
                   Compared and zero flag sets
                
-3. Zero Flag : If sets to 0 , array elements don't match and m3 is displayed.
-               If sets to 1 , array elements match and m2 is displayed.
+
                
                
 ## Flow of the Project:
