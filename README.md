@@ -14,7 +14,7 @@ To write a program in 8086 Assembly Language that checks an input string against
                
                
 ## Flow of the Project:
-<img src="https://github.com/BhakeSart/Password-Validity-Checking-System/blob/main/misc/flow.jpg" alt="Flow of the Project" width="500" height="200">
+<img src="https://github.com/BhakeSart/Password-Validity-Checking-System/blob/main/misc/flow.jpg" alt="Flow of the Project" width="520" height="300">
 
 
 
