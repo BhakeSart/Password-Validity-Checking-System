@@ -14,5 +14,7 @@ To write a program in 8086 Assembly Language that checks an input string against
                
                
 ## Flow of the Project:
+<img src="" alt="Flow of the Project" width="500" height="600">
+
 
 
